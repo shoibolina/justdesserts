@@ -1,4 +1,6 @@
-import statistics
+# Simple code to calculate the mean, median, and standard deviation of a list of numbers
+
+import statistics # importing package to use built-in functions
 
 def analyze_data(data):
     if not data:
